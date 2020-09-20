@@ -1,1 +1,1 @@
-# destinationspotter
+# Destination Spotter
