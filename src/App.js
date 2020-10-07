@@ -1,6 +1,6 @@
 import React from "react";
 import "./App.css";
-import mainNav from "./components/mainNav";
+import MainNav from "./components/MainNav";
 import SearchBar from "./components/SearchBar";
 import PopularPlaces from "./components/PopularPlaces";
 import Features from "./components/features";
@@ -9,7 +9,7 @@ import Team from "./components/Team";
 function App() {
   return (
     <div classNameName="App">
-      <mainNav></mainNav>
+      <MainNav></MainNav>
 
       <header className="masthead">
         <div className="container">
